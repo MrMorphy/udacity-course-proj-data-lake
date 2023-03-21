@@ -79,11 +79,11 @@ Following is a list or required files to execute the project:
 ### Prerequisites
 
 - AWS Account
-- Set your AWS access and secret key in the config file [dl.cfg]
-        ```
-        AWS_ACCESS_KEY_ID = <your aws key>
-        AWS_SECRET_ACCESS_KEY = <your aws secret>
-        ```
+- Set your AWS access and secret key in the config file `dl.cfg`  
+        ```  
+        AWS_ACCESS_KEY_ID = <your aws key>  
+        AWS_SECRET_ACCESS_KEY = <your aws secret>  
+        ```  
 
 ## Setup an EMR on AWS - How to run this project on AWS EMR?
 
