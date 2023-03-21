@@ -80,10 +80,11 @@ Following is a list or required files to execute the project:
 
 - AWS Account
 - Set your AWS access and secret key in the config file `dl.cfg`  
-        ```  
-        AWS_ACCESS_KEY_ID = <your aws key>  
-        AWS_SECRET_ACCESS_KEY = <your aws secret>  
-        ```  
+  
+```
+AWS_ACCESS_KEY_ID = <your aws key>
+AWS_SECRET_ACCESS_KEY = <your aws secret>
+```
 
 ## Setup an EMR on AWS - How to run this project on AWS EMR?
 
@@ -103,10 +104,11 @@ To create an Elastic Map Reduce data lake on AWS, use the following steps:
     
 ### Terminal commands 
 
-* Execute the ETL pipeline script by running:
-    ```
-    $ python etl.py
-    ```
+* Execute the ETL pipeline script by running:  
+  
+```
+$ python etl.py
+```
 
 
 <br>
@@ -117,4 +119,3 @@ Student "MrMorphy" [GitHub Profile](https://github.com/MrMorphy)
 
 GitHub Project  
 https://github.com/MrMorphy/udacity-course-proj-data-lake/blob/main/README.md
-
